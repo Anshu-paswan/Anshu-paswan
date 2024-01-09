@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#cammands 
-apt update &&
-apt upgrade &&
-pkg install git
